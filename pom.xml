@@ -20,7 +20,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>1.2.1</version>
 				<configuration>
-					<mainClass>com.hcl.sendmail.SendEmail</mainClass>
+					<mainClass>com.hcl.sendmail.SendAttachmentInEmail</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
